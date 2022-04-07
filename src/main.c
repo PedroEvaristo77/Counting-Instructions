@@ -1,5 +1,4 @@
 #include "randomatriz.h"
-#include "randomatriz.c"
 
 int main(){
 int TAM;
